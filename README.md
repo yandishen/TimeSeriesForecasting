@@ -1,2 +1,2 @@
 # TimeSeriesForecasting
-kk
+Use ARIMAX model to predict weekly sales
